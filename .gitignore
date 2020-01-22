@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.idea
+*.js
+*.js.map
+*.d.ts
+!GruntFile.js

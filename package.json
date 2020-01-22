@@ -1,0 +1,20 @@
+{
+  "name": "samples",
+  "version": "1.0.0",
+  "description": "Assessment Description",
+  "main": "index.js",
+  "scripts": {
+    "start grunt server": "grunt",
+    "test": "test"
+  },
+  "author": "Aleksandr Martirosyan",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exec": "^3.0.0"
+  }
+}
